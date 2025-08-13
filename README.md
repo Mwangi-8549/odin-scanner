@@ -43,12 +43,12 @@ python odin_scanner.py
 python odin_scanner.py --heal
 ```
 
-Requirements
+## Requirements
 - Python 3.8+
 - AWS credentials configured (via AWS CLI or environment variables)
 ```bash
 aws configure
 ```
-Version
+## Version
 v1.0 — Initial release with AWS S3 scanning and --heal option.
 
